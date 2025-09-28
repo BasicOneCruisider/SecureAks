@@ -1,4 +1,5 @@
 # 🚀 Secure Azure Kubernetes Service (AKS) Cluster Deployment
+![Azure Kubernetes Service](https://controlmonkey.io/wp-content/uploads/2025/09/azure-aks-terraform-guide.png)
 
 ## 🛡️ Architecture & Zero Trust Principles
 
